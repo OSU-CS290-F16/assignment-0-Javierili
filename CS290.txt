@@ -1,0 +1,15 @@
+<h2>Assignment Number: 0!
+<br>
+<h3>
+<ul> 
+<li> Name: Iliana Javier
+<li> Major: Computer Science, Second year
+<li> How confident are you in web development skills: 8
+</ul>
+<p> What do you hope to learn from this class: About communication between the user, server,
+and databases. </p>
+<p> Have you signed up for Piazza: Yes. </p>
+<h3><p> Interesting Fact: I didn't switch into CS until the last week of spring term. I'm
+glad I did. 
+
+
